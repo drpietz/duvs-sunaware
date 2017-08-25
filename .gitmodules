@@ -1,3 +1,4 @@
 [submodule "sunaware"]
 	path = sunaware
 	url = https://github.com/drpietz/sunaware
+	branch = master
